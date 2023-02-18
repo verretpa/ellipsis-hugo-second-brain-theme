@@ -1,6 +1,6 @@
 ---
-title: ✍️ Second Brain
-date: 2022-09-24
+title: ellipsis
+date: 2023-02-18
 toc: false
 
 image:
